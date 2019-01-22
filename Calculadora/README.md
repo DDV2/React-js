@@ -1,1 +1,1 @@
-Calculadora con operaciones basicas, implementacion de conceptos basicos de la libreria.
+Calculadora con operaciones basicas, implementacion de fundamentos y conceptos basicos de la libreria.
